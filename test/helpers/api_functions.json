@@ -1,0 +1,12 @@
+{
+    "users": {
+        "getUsers": {
+            "url": "/users",
+            "requestType": "get",
+            "headers": { "Content-Type": "application/json" },
+            "urlParameters": [],
+            "bodyParameters": [],
+            "useAuth": false
+        }
+    }
+}
